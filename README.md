@@ -2,8 +2,8 @@
 Callouts from LSPDFR version of JM Callouts Remastered 
 
 # Requirements
-FivePD (1.5.2) installed into your fivem server
-FiveM installed (OF COURSE!)
+1) FivePD (1.5.2) installed into your fivem server
+2) FiveM installed (OF COURSE!)
 
 # How to install JMCallouts-FivePD into FivePD
 Take "JMCallouts-Fived-[CalloutName].net.dll" into FivePD > Callouts

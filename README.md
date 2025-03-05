@@ -6,7 +6,7 @@ Callouts from LSPDFR version of JM Callouts Remastered
 2) FiveM installed (OF COURSE!)
 
 # How to install JMCallouts-FivePD into FivePD
-Take "JMCallouts-Fived-[CalloutName].net.dll" into FivePD > Callouts
+Take "JMCalloutsOfficial.net.dll" into FivePD > Callouts
 
 Launch in game 
 Go on duty 

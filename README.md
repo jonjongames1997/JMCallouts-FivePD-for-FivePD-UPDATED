@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/status-active-blue" />
+<img src="https://img.shields.io/badge/Status-Discontinued-red" /> <img src="https://img.shields.io/badge/Status-Deprecated-red" />
 
 # JMCallouts-FivePD
 Callouts from LSPDFR version of JM Callouts Remastered 
